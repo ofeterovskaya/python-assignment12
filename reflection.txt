@@ -28,3 +28,7 @@ Instead of presenting overwhelming tables or static charts, these tools enable s
 In professional settings, this interactivity bridges the gap between technical data teams and non-technical decision-makers.
 Executives can explore "what-if" scenarios without needing to request custom reports, analysts can share live dashboards instead of static PDFs, and teams can collaboratively investigate anomalies in real time. 
 By putting control in the hands of the audience, Plotly and Dash transform data from a passive artifact into an active conversation, leading to more informed and timely decisions.
+
+
+
+DEPLOY https://python-assignment12-oksana.onrender.com/
